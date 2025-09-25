@@ -14,12 +14,8 @@ It just so happens that another penguin is there, and the other penguin is evil 
 
 The name of the island is Emperor Island, named after Emperor Penguins. It also just so happens the main villain is an Emperor Penguin.
 
-## How to build the game
-It's not even been worked on yet, why would you wanna build it right now? 
-
-Also, the versions of Haxe and HaxeFlixel used to build this are outdated right now! 
-
-Wait until I upload the source code and then I'll add build instructions here.
+## Build Instructions
+I'll need to upgrade my Haxe and HaxeFlixel versions first before I can write build instructions, and they'll be in the wiki instead, not the readme.
 
 ## Other planned things
 These things are for the finished game, not the versions before that, although these could be added for the versions before it. I don't know how to code these right now so a pull request by someone else might be necessary for these to be added.
