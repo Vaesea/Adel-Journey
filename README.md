@@ -12,15 +12,6 @@ It just so happens that another penguin is there, and the other penguin is evil 
 - Vaesea (Main creator of the game)
 - SuperTux Team (They made SuperTux, and this game is very inspired by SuperTux)
 
-## Planned "Sections" of the island
-The "worlds" in this game are called sections. Here's the different sections! They have 2 levels each.
-- [ ] Industrialized Forest (A forest with many trees... that have all been cut down. There's a big factory in this forest)
-- [ ] Coconut Desert (This is where some dangerous moving coconuts are. Watch out!)
-- [ ] Frozen Lake (A giant lake that has now been frozen)
-- [ ] Metal Tower (A tall tower that leads to a cloudy sky)
-- [ ] Cloudy Sky (You must go here if you wanna reach the Sky Castle)
-- [ ] Sky Castle (Scary castle, as it's the final world after all)
-
 The name of the island is Emperor Island, named after Emperor Penguins. It also just so happens the main villain is an Emperor Penguin.
 
 ## How to build the game
