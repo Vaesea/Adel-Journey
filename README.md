@@ -8,6 +8,10 @@ A penguin named Adel just goes to explore an island of many strange things. Adel
 
 It just so happens that another penguin is there, and the other penguin is evil and wants to take over the island.
 
+## Credits
+- Vaesea (Main creator of the game)
+- SuperTux Team (They made SuperTux, and this game is very inspired by SuperTux)
+
 ## Planned "Sections" of the island
 The "worlds" in this game are called sections. Here's the different sections! They have 2 levels each.
 - [ ] Industrialized Forest (A forest with many trees... that have all been cut down. There's a big factory in this forest)
@@ -16,7 +20,8 @@ The "worlds" in this game are called sections. Here's the different sections! Th
 - [ ] Metal Tower (A tall tower that leads to a cloudy sky)
 - [ ] Cloudy Sky (You must go here if you wanna reach the Sky Castle)
 - [ ] Sky Castle (Scary castle, as it's the final world after all)
-The name of the island is Emperor Island.
+
+The name of the island is Emperor Island, named after Emperor Penguins. It also just so happens the main villain is an Emperor Penguin.
 
 ## How to build the game
 It's not even been worked on yet, why would you wanna build it right now? 
@@ -24,3 +29,9 @@ It's not even been worked on yet, why would you wanna build it right now?
 Also, the versions of Haxe and HaxeFlixel used to build this are outdated right now! 
 
 Wait until I upload the source code and then I'll add build instructions here.
+
+## Other planned things
+These things are for the finished game, not the versions before that, although these could be added for the versions before it. I don't know how to code these right now so a pull request by someone else might be necessary for these to be added.
+- [ ] Modding Support (Possibly using polymod?)
+- [ ] Level Editor (Thinking of using Ogmo Editor v3 for now but this might exist?)
+- [ ] Hscript Support (This would be nice to have if a level editor is added so there could be scripting for levels, basically like SuperTux) (Would need a level editor to be added because otherwise it'd be useless)
