@@ -16,9 +16,3 @@ The name of the island is Emperor Island, named after Emperor Penguins. It also 
 
 ## Build Instructions
 I'll need to upgrade my Haxe and HaxeFlixel versions first before I can write build instructions, and they'll be in the wiki instead, not the readme.
-
-## Other planned things
-These things are for the finished game, not the versions before that, although these could be added for the versions before it. I don't know how to code these right now so a pull request by someone else might be necessary for these to be added.
-- [ ] Modding Support (Possibly using polymod?)
-- [ ] Level Editor (Thinking of using Ogmo Editor v3 for now but this might exist?)
-- [ ] Hscript Support (This would be nice to have if a level editor is added so there could be scripting for levels, basically like SuperTux) (Would need a level editor to be added because otherwise it'd be useless)
